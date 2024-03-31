@@ -1,0 +1,23 @@
+{
+  "id": "risen-herald",
+  "title": "Risen-Herald",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Foundry VTT support for the Risen Herald Archetype for Pathfinder2e.",
+  "packs": [
+    {
+      "name": "risen-herald-archetype",
+      "label": "Risen-Herald-Archetype",
+      "path": "packs/risen-herald-archetype",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}
