@@ -19,5 +19,8 @@
       },
       "system": "pf2e"
     }
-  ]
+  ],
+"url": "https://github.com/LionsBrainMedia/risen-herald",
+"manifest": "https://raw.githubusercontent.com/LionsBrainMedia/risen-herald/main/module.json",
+"download": "https://github.com/LionsBrainMedia/risen-herald/archive/refs/heads/main.zip"
 }
